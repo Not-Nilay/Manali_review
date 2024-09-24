@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>My first Website</title>
+</head>
+<body bgcolor="lightblue" text=blue>
+<font face="monotype" size=2><center><b>Example of Font tag</b></center></font>
+<h1>This is a heading 1 tag</h1>
+<hr color="red" size="5"> <!--This is an example of HR tag-->
+<p align="center"><u>This is a paragrah tag</u><i> <Br> This was the BR tag</i></p>
+<pre>This is 
+            Preformatted Text </pre>
+<p>This is <sub>Subscript</sub> <Br>
+   This is <sup>Superscript</sup></p>
+<TT>This is teletype tag</TT>
+<Strike>This is example of Strike tag</strike>
+</body>
+</html>
